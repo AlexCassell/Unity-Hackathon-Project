@@ -17,5 +17,7 @@
 5. You can set the trees and zombies on fire with your flamethrower.
 
 
-### Playable game found inside the Builds folder.
+### Playable game can be downloaded from my website.
+[Version 4](https://alexcassell.com/V4.zip)
+
 
